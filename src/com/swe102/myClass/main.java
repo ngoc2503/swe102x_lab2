@@ -24,3 +24,7 @@ public class main {
 		app.paint();
 	}
 }
+// result
+* You have created WindowsButton.
+* You have created WindowsCheckBox.
+//
